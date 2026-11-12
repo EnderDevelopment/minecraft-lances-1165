@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["  P"," PS","S  "],"key":{"P":{"item":"minecraft:oak_planks"},"S":{"item":"minecraft:stick"}},"result":{"item":"spearfeatures:wooden_spear","count":1}}

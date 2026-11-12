@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["  P"," PS","S  "],"key":{"P":{"item":"minecraft:cobblestone"},"S":{"item":"minecraft:stick"}},"result":{"item":"spearfeatures:stone_spear","count":1}}

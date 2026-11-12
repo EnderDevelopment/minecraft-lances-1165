@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+issueTrackerURL="https://example.invalid/spearfeatures/issues"
+
+[[mods]]
+modId="spearfeatures"
+version="${file.jarVersion}"
+displayName="Spear Features"
+authors="Example"
+description='''Adds material spears with passive effects and a forward dash.'''
+
+[[dependencies.spearfeatures]]
+modId="forge"
+mandatory=true
+versionRange="[36.2.39,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spearfeatures]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5]"
+ordering="NONE"
+side="BOTH"
